@@ -403,7 +403,8 @@ textarea::-webkit-input-placeholder {
   width: 410px;
   height: 410px;
   border-radius: 50%;
-  background-color: #D500F9;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b283f8), to(#4A148C));
+  background: linear-gradient(#b283f8, #4A148C);
 }
 
 .pc .banner .content .right img {
@@ -790,7 +791,8 @@ textarea::-webkit-input-placeholder {
   width: 80vw;
   height: 80vw;
   border-radius: 50%;
-  background-color: #D500F9;
+  background: -webkit-gradient(linear, left top, left bottom, from(#b283f8), to(#4A148C));
+  background: linear-gradient(#b283f8, #4A148C);
   margin: 0 auto;
 }
 
