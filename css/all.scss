@@ -428,22 +428,17 @@ textarea::-webkit-input-placeholder {
         width: 59px;
         height: 59px;
         border-radius: 50%;
-        margin-right: 23px;
+        margin-right: 15px;
+        vertical-align: top;
       }
 
       div {
-        width: 250px;
-        font-size: 15px;
+        width: 220px;
+        font-size: 14px;
         line-height: 25px;
 
-        p {
-          margin-top: 6px;
-        }
-
-        span {
-          font-size: 22px;
-          line-height: 40px;
-          letter-spacing: 4px;
+        div {
+          min-height: 120px
         }
       }
     }
