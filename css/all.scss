@@ -262,6 +262,11 @@ textarea::-webkit-input-placeholder {
   font-family: 'SF-Pro-Text-Bold';
 }
 
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
 
 .pc {
   .button {
