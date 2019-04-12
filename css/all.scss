@@ -310,7 +310,7 @@ textarea::-webkit-input-placeholder {
     align-items: center;
 
     .container {
-      width: 1024px;
+      width: 1170px;
       margin: 0 auto;
     }
 
@@ -329,7 +329,7 @@ textarea::-webkit-input-placeholder {
     .blog {
       font-size: 14px;
       transition: all .3s;
-      padding: 10px;
+      padding: 10px 0 10px;
 
       &:hover {
         color: rgba(255, 255, 255, 0.8);
