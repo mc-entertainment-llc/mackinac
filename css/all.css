@@ -655,7 +655,7 @@ textarea::-webkit-input-placeholder {
 .pc .banner-6 img.right {
   width: 410px;
   position: absolute;
-  top: -113px;
+  top: -100px;
   right: 0px;
 }
 
@@ -920,14 +920,14 @@ textarea::-webkit-input-placeholder {
 .phone .banner-5 .img,
 .phone .banner-6 .img {
   position: relative;
-  height: 98.6667vw;
-  padding-top: 18.6667vw;
+  height: 103.4667vw;
+  padding-top: 14.4vw;
 }
 
 .phone .banner-5 .img div,
 .phone .banner-6 .img div {
   width: 100%;
-  height: 80vw;
+  height: 82.6667vw;
   background-color: rgba(74, 20, 140, 0.11);
   margin: 0 auto;
 }
@@ -1009,7 +1009,14 @@ textarea::-webkit-input-placeholder {
 
 .phone .banner-7 .img {
   width: 66.6667vw;
+  height: 110.6667vw;
+  margin: 0 auto;
+  overflow: hidden;
   margin-top: 13.3333vw;
+}
+
+.phone .banner-7 .img img {
+  width: 100%;
 }
 
 .phone .banner-7 .white {
