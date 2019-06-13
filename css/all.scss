@@ -17,10 +17,11 @@ $gray-2: rgba(255, 255, 255, 0.3);
       max-width: 1024px;
       margin: 40px auto 60px;
       font-size: 14px;
+      line-height: 1.5;
 
       a {
         word-break: break-word;
-        color: $black;
+        text-decoration: underline;
       }
     }
 
