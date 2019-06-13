@@ -9,11 +9,12 @@
     max-width: 1024px;
     margin: 40px auto 60px;
     font-size: 14px;
+    line-height: 1.5;
   }
   .pc .terms-of-service a,
   .pc .privacy-policy a {
     word-break: break-word;
-    color: #4A4A4A;
+    text-decoration: underline;
   }
   .pc .contact-us {
     margin: 40px auto 60px;
